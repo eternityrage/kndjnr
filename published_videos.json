@@ -2382,5 +2382,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-2eb78e90-7f26-4b7d-b3f1-2d64e71e909e.mp4",
+        "metadata": {
+            "title": "Kendall Jenner's Best Fashion Moments You Need to See",
+            "description": "When Kendall Jenner and Zac Efron sang 'Rewrite the Stars' in The Greatest Showman, the world fell in love. Her voice, her presence, that incredible aerial choreography \u2014 it was pure movie magic. The song became an instant classic and showed the world that Kendall Jenner wasn't just a Disney star, she was a triple threat. The Greatest Showman soundtrack spent over 100 weeks on the Billboard charts. Like if you still get chills watching this scene! \ud83c\udfb5 #kendalljenner #thegreatestshowman #rewritethestars #zacefron #musical #hollywood #soundtrack #kendalljennersinging #viral #movieclips #kendalljennerfan #disney #broadwayenergy",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
